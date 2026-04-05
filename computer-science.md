@@ -1,0 +1,55 @@
+# Programming
+## Language Agnostic Challanges
+- [Advent Of Code](https://adventofcode.com/) programming puzzles for a variety of skill levels that can be solved in any programming language
+- [Leetcode](https://leetcode.com/) 
+- [Neetcode (structured Leetcode roadmap)](https://neetcode.io/roadmap) 
+- [Project Euler](https://projecteuler.net/) challenging mathematical/computer programming problems
+
+## C
+### Courses
+- [Code Vault C Courses](https://code-vault.net/)
+
+## CUDA C/C++
+Most official resources are linked somewhere in [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/index.html)
+### Installation
+- [CUDA Installation Windows](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html)
+- [CUDA Installation Linux](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html)
+### Programming Guide
+- [CUDA Programmign Guide](https://docs.nvidia.com/cuda/cuda-programming-guide/index.html)
+- [CUDA Programmign Guide (Legacy)](https://docs.nvidia.com/cuda/cuda-c-programming-guide)
+- [CUDA Best Practices Guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html#)
+### Documentation
+- [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/index.html)
+- [CUDA Runtime API Documentation](https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__DEVICE.html)
+- [CUDA C++ Core Libraries](https://nvidia.github.io/cccl/unstable/cpp.html)
+- [NVIDIA CUDA Compiler Driver NVCC](https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html)
+### Courses
+- [120 Days CUDA Challange](https://github.com/AdepojuJeremy/CUDA-120-DAYS--CHALLENGE)
+- [Learning GPU programming (30 days plan)](https://antaripasaha.notion.site/Learning-GPU-Programming-30-days-plan-1885314a563980be95a6e9fd43c4c217)
+- [Exhaustive CUDA Learning Path](https://github.com/rkinas/cuda-learning)
+- [100 Days of CUDA (discord challange)](https://github.com/hkproj/100-days-of-gpu/blob/main/CUDA.md)
+### Coding Challanges (LeetGPU)
+- [LeetGPU)](https://leetgpu.com/challenges) LeetCode for CUDA
+
+Solutions:
+- [Full Solutions for LeetGPU (via lzyrapx on Github)](https://github.com/lzyrapx/LeetGPU)
+- [Solutions for LeetGPU in Chinese (via LLAA178 on Github)](https://github.com/LLAA178/LeetGPU-Guidebook)
+
+# Artifical Intelligence
+## Machine Learning
+### Lectures
+- [Statistical Learnign with Python (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
+### Courses
+- [Google Machine Learning Education](https://developers.google.com/machine-learning) Learn to build ML products with Google's Machine Learning Courses
+- [Kaggle Course](https://www.kaggle.com/learn) Learn to build ML products with Google's Machine Learning Courses
+
+Random unverified courses:
+- [Alison - Machine Learning for Absolute Beginners ](https://alison.com/course/machine-learning-for-absolute-beginners)
+- [Machine Learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/), [Alternative Link from coursera?](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll)
+- [Great Learning Academy – Free ML Course](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-machine-learning1)
+
+### Books
+- [An Introduction to Statistical Learning](https://www.statlearning.com/)
+# Network Engineering
+## Practice
+- [Subnetting Practice](https://subnettingpractice.com/)
