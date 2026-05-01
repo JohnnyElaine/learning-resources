@@ -10,7 +10,7 @@
 - [Code Vault C Courses](https://code-vault.net/)
 
 ## CUDA C/C++
-Most official resources are linked somewhere in [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/index.html)
+Most official resources are linked somewhere in [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/index.html). The best glossary is the [Modal GPU Glossary](https://modal.com/gpu-glossary/readme)
 ### Installation
 - [CUDA Installation Windows](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html)
 - [CUDA Installation Linux](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html)
@@ -19,6 +19,7 @@ Most official resources are linked somewhere in [CUDA Toolkit Documentation](htt
 - [CUDA Programmign Guide (Legacy)](https://docs.nvidia.com/cuda/cuda-c-programming-guide)
 - [CUDA Best Practices Guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html#)
 ### Documentation
+- [GPU Glossary (BEST)](https://modal.com/gpu-glossary/readme)
 - [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/index.html)
 - [CUDA Runtime API Documentation](https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__DEVICE.html)
 - [CUDA C++ Core Libraries](https://nvidia.github.io/cccl/unstable/cpp.html)
@@ -34,6 +35,9 @@ Most official resources are linked somewhere in [CUDA Toolkit Documentation](htt
 Solutions:
 - [Full Solutions for LeetGPU (via lzyrapx on Github)](https://github.com/lzyrapx/LeetGPU)
 - [Solutions for LeetGPU in Chinese (via LLAA178 on Github)](https://github.com/LLAA178/LeetGPU-Guidebook)
+
+# Computer Architecture
+- [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 # Artifical Intelligence
 ## Machine Learning
