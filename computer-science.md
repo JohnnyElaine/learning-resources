@@ -1,4 +1,7 @@
 # Programming
+## Language References
+- [Quick References](https://quickref.me/) Quick References for every programming langue and programming related tasks (docker, vim, etc)
+- [Programming Notes for Professionals](https://books.goalkicker.com/) 
 ## Language Agnostic Challanges
 - [Advent Of Code](https://adventofcode.com/) programming puzzles for a variety of skill levels that can be solved in any programming language
 - [Leetcode](https://leetcode.com/) 
