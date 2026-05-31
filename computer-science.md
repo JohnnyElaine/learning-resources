@@ -45,7 +45,8 @@ Solutions:
 - [Statistical Learnign with Python (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
 ### Courses
 - [Google Machine Learning Education](https://developers.google.com/machine-learning) Learn to build ML products with Google's Machine Learning Courses
-- [Kaggle Course](https://www.kaggle.com/learn) Learn to build ML products with Google's Machine Learning Courses
+- [Kaggle Course](https://www.kaggle.com/learn) Kggle ML courses
+- [Kaggle Course](https://www.deeplearning.ai/courses) Collection of ML/DL/LLM courses
 
 Random unverified courses:
 - [Alison - Machine Learning for Absolute Beginners ](https://alison.com/course/machine-learning-for-absolute-beginners)
