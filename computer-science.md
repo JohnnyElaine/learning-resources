@@ -46,7 +46,8 @@ Solutions:
 ### Courses
 - [Google Machine Learning Education](https://developers.google.com/machine-learning) Learn to build ML products with Google's Machine Learning Courses
 - [Kaggle Course](https://www.kaggle.com/learn) Kggle ML courses
-- [Kaggle Course](https://www.deeplearning.ai/courses) Collection of ML/DL/LLM courses
+- [DeepLearning.ai](https://www.deeplearning.ai/courses) Collection of ML/DL/LLM courses
+- [Practical Deep Learning for coders](https://course.fast.ai/) Hands on Deep learning course.
 
 Random unverified courses:
 - [Alison - Machine Learning for Absolute Beginners ](https://alison.com/course/machine-learning-for-absolute-beginners)
