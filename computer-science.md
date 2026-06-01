@@ -45,7 +45,7 @@ Solutions:
 # Artifical Intelligence
 ## Machine Learning
 ### Lectures
-- [Statistical Learnign with Python (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
+- [Statistical Learning with Python (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
 ### Courses
 - [Google Machine Learning Education](https://developers.google.com/machine-learning) Learn to build ML products with Google's Machine Learning Courses
 - [Kaggle Course](https://www.kaggle.com/learn) Kggle ML courses
@@ -58,7 +58,7 @@ Random unverified courses:
 - [Great Learning Academy – Free ML Course](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-machine-learning1)
 
 ### Books
-- [An Introduction to Statistical Learning](https://www.statlearning.com/)
+- Hands-On Machine Learning with Scikit-Learn and PyTorch, [Official Website](https://ageron.github.io/), [Github](https://github.com/ageron/handson-mlp), [Google Colab](https://colab.research.google.com/github/ageron/handson-mlp/) Great comprehensive book. Includes exercises with soltuions
 # Network Engineering
 ## Practice
 - [Subnetting Practice](https://subnettingpractice.com/)
