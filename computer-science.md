@@ -42,13 +42,18 @@ Most official resources are linked somewhere in [CUDA Toolkit Documentation](htt
 ### Courses
 - [Perldoc - Official Perl Tutorials](https://perldoc.perl.org/perlintro) Official Perl Tutorials
 - [Perl Maven](https://perlmaven.com/) Full Perl tutorial website, including modern best practices
+### Books
+
 ## Rust
+- [Offical Learning References](https://rust-lang.org/learn/)
 ### Courses
 - [Comprehensive Rust (Google)](https://google.github.io/comprehensive-rust/)
 - [Rust by Example (official resource)](https://doc.rust-lang.org/rust-by-example/)
 - [Rustlings Course (official resource)](https://github.com/rust-lang/rustlings/) teaches you the basics of reading and writing Rust syntax, on the command line.
 ### Books
 - [Official Rust Programming Book](https://doc.rust-lang.org/book/)
+- [Brown University Rust Programming](https://rust-book.cs.brown.edu/) Interactive Experimetnal Rust Book.
+- [The Embedded Rust Book](https://docs.rust-embedded.org/book/)
 
 # Computer Architecture
 - [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
